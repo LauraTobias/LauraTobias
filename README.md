@@ -1,9 +1,16 @@
 
 
-<h2>About me </h2>
- <p>Hi there! I'm Laura Furtado and here you will find some things about my life as a developer.</p>
+<h2>
+<g-emoji class="g-emoji" alias="smile">😄</g-emoji>
+About me 
+</h2>
+<p align="center">Hi there! I'm Laura Furtado and here you will find some things about my life as a developer. I started to work in a tech company when I was 18 years old and since then period I have been studying to be a better programmer. I am in love with C# and it's the language I'm focusing on right now but I'm always looking for new technologies to learn.</p>
  
-<h2>I work with</h2>
+ 
+<h2>
+ <g-emoji class="g-emoji" alias="computer">💻</g-emoji>
+ I work with
+</h2>
 <p align="center">
   <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp" style="vertical-align:top margin:6px 4px">
@@ -28,7 +35,10 @@
   </a>
 </p>
 
-<h2>I'm learning</h2>
+<h2>
+ <g-emoji class="g-emoji" alias="books">📚</g-emoji>
+ I'm learning
+</h2>
 <p align="center">
   
   <a href="https://pt-br.reactjs.org/">
@@ -43,7 +53,7 @@
 </p>
 
 
-<h2>Follow me</h2>
+<h2><g-emoji class="g-emoji" alias="dart">🎯</g-emoji>Follow me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/laura-furtado/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="vertical-align:top margin:6px 4px">

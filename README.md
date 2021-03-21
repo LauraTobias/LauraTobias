@@ -4,7 +4,8 @@
 <g-emoji class="g-emoji" alias="smile">😄</g-emoji>
 About me 
 </h2>
-<p align="center">Hi there! I'm Laura Furtado and here you will find some things about my life as a developer. I started to work in a tech company when I was 18 years old and since then period I have been studying to be a better programmer. I am in love with C# and it's the language I'm focusing on right now but I'm always looking for new technologies to learn.</p>
+<p align="center">Hi there! I'm Laura Furtado and here you will find some things about my life as a developer.</p>
+<p>I started to work in a tech company when I was 18 years old and since then I have been studying to be a better programmer. I am in love with C# and it's the language I'm focusing on right now but I'm always looking for new technologies to learn.</p>
  
  
 <h2>

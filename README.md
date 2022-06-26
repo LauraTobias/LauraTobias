@@ -58,7 +58,7 @@ About me
   <a href="https://www.linkedin.com/in/laura-furtado/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="vertical-align:top margin:6px 4px">
   </a> 
-  <a href="https://www.instagram.com/lalalinha_f/">
+  <a href="https://www.instagram.com/lafurtado_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="vertical-align:top margin:6px 4px">
   </a>  
   <a href="https://www.instagram.com/lafurtado_/">
